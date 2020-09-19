@@ -1,6 +1,6 @@
 
 
-Live version can be viewed here: https://cristianburloiu.github.io/react-beach-resort/
+Live version can be viewed here: https://cristianburloiu.github.io/
 
 
 
